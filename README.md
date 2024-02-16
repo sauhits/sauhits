@@ -1,3 +1,5 @@
-  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauhits&layout=compact&theme=highcontrast" />
-  <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=sauhits&theme=highcontrast&show_icons=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauhits&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauhits&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=java,html,css)](https://skillicons.dev)
