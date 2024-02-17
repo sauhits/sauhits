@@ -9,4 +9,3 @@ CSSは完全に理解した()<br><br>
 ## 使用言語
 [![My Skills](https://skillicons.dev/icons?i=java,html,css)](https://skillicons.dev)
 
-![result](?raw=true)
