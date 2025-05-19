@@ -7,4 +7,4 @@ CSSは完全に理解した()<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauhits&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 勉強中だヨ
-[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,latex,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,html,css,latex,vscode)](https://skillicons.dev)
