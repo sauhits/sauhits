@@ -2,7 +2,10 @@
 私は日本の情報系大学に通う学生です \
 プログラミングなんもわからんけど頑張るで！ \
 
-私のページ↓<br>
+私のページ↓
+
+[![pages-build-deployment](https://github.com/sauhits/sauhits.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sauhits/sauhits.github.io/actions/workflows/pages/pages-build-deployment)
+
 <a href="https://sauhits.github.io/">
 <img width="175" height="57" alt="Gemini_Generated_Image_zaa0hpzaa0hpzaa0" src="https://github.com/user-attachments/assets/4fbb071a-d203-4e36-a98b-5ad7eee1625d" />
 </a>
