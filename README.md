@@ -3,7 +3,7 @@
   <img src="https://qiita-badge.apiapi.app/s/sauhits/posts.svg" alt="My Qiita posts" />
 </p>
 
-## 🫠こ゛ん゛に゛ち゛は゛!゛
+# 🫠こ゛ん゛に゛ち゛は゛!゛
 情報系大学で勉強中の大学生です！
 プログラミング初心者だけど頑張るよ！
 
@@ -46,6 +46,7 @@ SNS<br>
   </a>
 </p>
 
+***
 
 ## 🌱skills...
 [![My Skills](https://skillicons.dev/icons?i=java,c,py,html,linux)](https://skillicons.dev)
